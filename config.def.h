@@ -7,7 +7,7 @@
  */
 static char *font = "monospace:pixelsize=22:antialias=true:autohint=true";
 static char *font2[] = {
-	"Noto Sans CJK JP:pixelsize=22:antialias=true:autohint=true",
+	"Noto Sans CJK JP:pixelsize=22:style=medium:antialias=true:autohint=true",
 };
 static int borderpx = 2;
 
